@@ -16,3 +16,9 @@ Example output
 ==============
 
 Link to output report [link](https://github.com/MoserMichael/k8explain/releases/download/htmlsample/out.html)
+
+
+Thanks
+======
+
+Thanks to Yaacov Zamir for insisting on a nice css for the reprt.
