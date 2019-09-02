@@ -15,4 +15,4 @@ Running the program
 Example output
 ==============
 
-Link to output report. Beautiful!
+Link to output report [link](https://github.com/MoserMichael/k8explain/releases/download/htmlsample/out.html)
