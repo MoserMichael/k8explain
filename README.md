@@ -1,9 +1,10 @@
-# generate html table with kubectl docs
+# Generate an html page with an interlinked explanation of kubernetes objects
 
-Command `kubectl api-resources` gives youo a table of kubernetes entities/api resources and  `kubectl explain` produces an explanation of a particular entity.
-The following program produces an html table, where each kubernetes entity is linked to a table with its description.
+Command `kubectl api-resources` gives you a table of kubernetes entities/api resources and  `kubectl explain` produces an explanation of a particular entity.
+The following program produces an html table that displays the output of `kubectl api-resources` as an html table, where each table row is linked to a more detailed description produced by `kubectl explain`.
 
 The program runs kubectl commands; parses the table produced by `kubectl api-resources`, etc. etc.
+
 This is a simple exercise that helped the author to pick up some golang programming skills.
 
 Running the program
