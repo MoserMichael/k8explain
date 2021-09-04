@@ -16,7 +16,7 @@ Running the program
 Example output
 ==============
 
-Link to output report [link](https://github.com/MoserMichael/k8explain/releases/download/htmlsample/out.html)
+Link to output report [link](https://mosermichael.github.io/k8explain/out.html)
 
 
 Thanks
